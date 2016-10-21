@@ -288,7 +288,7 @@ uat:
   <<: *default_settings
   app_name:HSDP_DC_CDS_UAT
 
-test:
+ddr-api-tst:
   <<: *default_settings
   app_name: HSDP_DC_CDS_TEST
 
